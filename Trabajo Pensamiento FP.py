@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # VALOR NETO
-
-# In[14]:
-
-
 valor_neto = float(input("Ingrese valor neto de la compra: "))
 iva = float(0.19)
 descuento = float(0.5)
